@@ -1,0 +1,10 @@
+{
+  "name": "oleo-certo-bh",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Localização de pontos de entrega de óleo de cozinha usado em Belo Horizonte",
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": { "start": "node server.js", "dev": "node --watch server.js", "test": "node --test", "check": "node --check server.js && node --check public/app.js", "data:geocode": "node scripts/geocode-points.js" },
+  "dependencies": { "leaflet": "1.9.4", "proj4": "2.22.0" }
+}

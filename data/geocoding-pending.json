@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Super Nosso Xuá",
+    "street": "Avenida Nossa Senhora do Carmo",
+    "number": 2780,
+    "reason": "Coordenada inválida na resposta da PBH."
+  },
+  {
+    "name": "Super Nosso Cruzeiro",
+    "street": "Avenida Afonso Pena",
+    "number": 3382,
+    "reason": "Coordenada inválida na resposta da PBH."
+  },
+  {
+    "name": "Meu Prata Padre Eustáquio",
+    "street": "Rua Pará de Minas",
+    "number": 235,
+    "reason": "Endereço não localizado de forma inequívoca"
+  },
+  {
+    "name": "Meu Prata Santa Inês",
+    "street": "Praça Cajuri",
+    "number": 111,
+    "reason": "Endereço não localizado de forma inequívoca"
+  },
+  {
+    "name": "Ultragaz Serrano / Tele Gás Viva",
+    "street": "Avenida Henfil",
+    "number": 120,
+    "reason": "Endereço não localizado de forma inequívoca"
+  },
+  {
+    "name": "Paróquia São João Batista",
+    "street": "Rua Veríssimo",
+    "number": 222,
+    "reason": "Endereço não localizado de forma inequívoca"
+  }
+]
